@@ -8,5 +8,4 @@ Nauka *gita*
 - Dwa
 - Trzy
 
-*A*
-**AAAAA**
+:hear_no_evil: :see_no_evil:  :speak_no_evil:
